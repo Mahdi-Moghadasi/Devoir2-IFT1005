@@ -1,0 +1,216 @@
+@font-face {
+    font-family: Mont-bold;
+    src: url(FontsFree-Net-Mont-Bold.ttf);
+}
+
+@font-face {
+    font-family: Mont-light;
+    src: url(Mont\ ExtraLight\ DEMO.otf);
+}
+
+body {
+    background-color: #F3F3F3;
+    padding: 10%;
+}
+
+#page1 {
+
+    padding: 45px 45px 45px 45px;
+    background-color: #4B74EE;
+    height: 470px;
+
+}
+
+#page1-space{
+
+height: 65em;
+
+}
+#text {
+    background-color: #4B74EE;
+    color: white;
+    font-family: Mont-bold;
+    line-height: 85%;
+    width: 50%;
+    float: left;
+    height: 27em;
+}
+
+.ini {
+    font-size: 400%;
+}
+
+.button {
+
+    font-weight: 400;
+    min-width: 200px;
+    display: inline-block;
+    line-height: 1em;
+    color: #696969;
+    background: #fff;
+    text-align: center;
+    border-radius: 50px;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    padding: 13px 15px;
+    font-size: 14px;
+}
+
+
+
+
+#Features {
+    background-color: #FF5500;
+    display: inline-block;
+    font-weight: 800;
+    font-size: smaller;
+
+}
+
+#Image {
+
+    float: right;
+    background-color: #4B74EE;
+    width: 50%;
+    height: 27em;
+}
+#child{
+
+    line-height: 20px;
+}
+
+a,
+h4,
+h1,
+p {
+
+    font-family: Mont-light;
+    font-weight: bolder;
+}
+
+#page2 {
+    background-color: #F3F3F3;
+    height: 85em;
+
+}
+
+#idp1 {
+    float: left;
+    width: 45%;
+    height: 30em;
+    background-color: #F3F3F3;
+    padding: 10px;
+
+}
+
+#imagep1 {
+
+    float: right !important;
+    width: 45%;
+    height: 30em;
+    padding: 10px;
+}
+
+#idp2 {
+
+    float: right;
+    width: 45%;
+    height: 30em;
+    background-color: #F3F3F3;
+    padding: 10px;
+
+
+}
+
+#imagep2 {
+
+
+    float: left !important;
+    width: 45%;
+    height: 30em;
+    padding: 10px;
+
+}
+
+
+.mostflexible {
+    color: #FF5500;
+
+}
+
+.amazingsupport {
+    color: blue;
+
+}
+
+.kanbanuniversity {
+    color: green;
+
+}
+
+#firstDiv {
+
+    float: left;
+    text-align: center;
+    position: relative;
+    background-color: white;
+    padding: 25px;
+
+}
+
+#secondDiv {
+    text-align: center;
+    float: left;
+    margin-left: 26em;
+    background-color: white;
+
+    padding: 25px;
+}
+
+#thirdDiv {
+
+    float: right;
+    text-align: center;
+    position: relative;
+    background-color: white;
+    padding: 25px;
+
+
+
+}
+#page3{
+
+height: 45em;
+
+}
+
+
+#page4 {
+
+    margin-top: 15em;
+    height: 45em;
+
+}
+
+
+#premiereDiv {
+
+
+    float: left;
+    position: relative;
+
+}
+
+#deuxiemeDiv {
+    margin-left: 15em;
+    position: relative;
+    float: left;
+
+}
+
+#troisemeDiv {
+    float: right;
+    position: relative;
+
+}
+
